@@ -4,14 +4,14 @@ widget_id: title-banner
 headless: true
 weight: 1
 title: Living Together
-subtitle: A study of bla bla bla
+subtitle: ""
 active: true
 design:
   columns: "1"
   background:
     text_color_light: false
     image_darken: 0
-    image: 20210620_102155.jpg
+    image: background-20211009.svg
 ---
 For more information about this project...
 
