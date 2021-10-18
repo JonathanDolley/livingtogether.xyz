@@ -11,6 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: 20210620_102155.jpg
 ---
 For more information about this project...
 
