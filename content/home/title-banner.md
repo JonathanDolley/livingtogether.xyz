@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: background-20211009.svg
+    image: background-20211009.png
 ---
 For more information about this project...
 
