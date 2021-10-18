@@ -16,3 +16,11 @@ design:
 For more information about this project...
 
 These are the aims.
+
+More text.
+
+And more.
+
+And some more.
+
+To see if the hero expands with more content.
