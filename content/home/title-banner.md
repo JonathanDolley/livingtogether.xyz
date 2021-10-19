@@ -9,18 +9,11 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
     image: background-20211009.png
 ---
-For more information about this project...
+A study of Hansalim as a model for solidarity pathways towards sustainable food
+systems
 
-These are the aims.
-
-More text.
-
-And more.
-
-And some more.
-
-To see if the hero expands with more content.
+MSCA Global Fellowship

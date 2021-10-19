@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chedo Lim
 
-# Is this the primary user of the site?
-superuser: true
+user_groups:
+    - Supervisors
 
 # Role/position/tagline
 role: Professor of Artificial Intelligence
