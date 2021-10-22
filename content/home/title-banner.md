@@ -3,7 +3,7 @@ widget: hero
 widget_id: title-banner
 headless: true
 weight: 1
-title: Living Together
+title: LivingTogether
 subtitle: ""
 active: true
 design:
@@ -13,7 +13,5 @@ design:
     image_darken: 0
     image: background-20211009.png
 ---
-A study of Hansalim as a model for solidarity pathways towards sustainable food
-systems
 
-MSCA Global Fellowship
+An MSCA Global Fellowship
