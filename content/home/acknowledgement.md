@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 200
 
-title: Marie Sklodowska-Curie Actions Global Fellowship
+title: 
 subtitle: ""
 active: true
 design:
@@ -28,4 +28,4 @@ design:
 
 ---
 
- This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No [number].
+ This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 892403.
