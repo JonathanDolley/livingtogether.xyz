@@ -17,7 +17,7 @@ main:
     url: '#timeline'
     weight: 30
   - name: Book
-    url: 'book.livingtogether.xyz'
+    url: 'http://book.livingtogether.xyz'
     weight: 40
 #  - name: Projects
 #    url: '#projects'
