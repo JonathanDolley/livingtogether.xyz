@@ -18,7 +18,7 @@ content:
     user_groups:
     - Principal Investigator
     - Supervisors
-    - Mosim Researchers
+    #- Mosim Researchers
 design:
   show_interests: false
   show_role: true

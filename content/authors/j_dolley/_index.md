@@ -2,28 +2,29 @@
 # Display name
 title: Jonathan Dolley
 
+authors:
+  - j_dolley
+
 # Is this the primary user of the site?
 superuser: true
 
-user_groups:
-    - Principal Investigator
-
 # Role/position/tagline
-role: Research Fellow
+role: Marie Skłodowska-Curie Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Sussex
-  url: https://www.sussex.ac.uk/
+- name: SPRU, University of Sussex Business School
+  url: https://www.sussex.ac.uk/business-school/people-and-departments/spru
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Jonathan Dolley is a Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex. He researches the links between urban development policy, peri-urban food systems and potential transformations towards sustainable urbanisation in rapidly urbanising countries.
 
 # Interests to show in About widget
 interests:
 - Cooperativism
 - Regenerative agriculture
 - Urban and peri-urban agriculture
+- Ecophilosophy
 
 # Education to show in About widget
 education:
@@ -43,9 +44,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JonathanDolley
@@ -57,7 +55,7 @@ social:
   link: https://github.com/JonathanDolley
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jonathandolley/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,11 +65,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
+
+user_groups:
+  - Principal Investigator
+  - Everyone
 ---
 
-
+<!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
