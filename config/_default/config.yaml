@@ -5,14 +5,14 @@
 
 title: LivingTogether # Website name
 baseurl: 'https://livingtogether.xyz/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Jonathan Dolley' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 

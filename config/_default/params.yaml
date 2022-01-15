@@ -8,52 +8,42 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
-site_type: Person
+site_type: Project
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'This 3 year research project is a Marie Skłodowska-Curie Action - Global Fellowship led by Dr Jonathan Dolley and supervised by the University of Sussex and the Mosim and Salim Research Institute, Hansalim (South Korea). Through this project I am investigating the story of the Korean cooperative, Hansalim, which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future. Hence the title of the fellowship: Hansalim as a model for solidarity pathways towards sustainable food systems.'
+twitter: 'https://twitter.com/LT_MSCA_Project'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
+  country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: 
+  longitude: 
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/LT_MSCA_Project'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
