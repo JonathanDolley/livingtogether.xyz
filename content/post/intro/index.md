@@ -32,6 +32,6 @@ Hello, and welcome. My name is Jonathan Dolley and I am the recipient of a Marie
 
 So last year, in preparation for the project, I moved to Korea to a town just outside Seoul with my Korean spouse and son (who are very happy to finally be here!).
 
- I'm a research fellow at the Science Policy Research Unit (University of Sussex Business School) and my research has so far focused on sustainability issues around urbanization and food systems in China and India.
+I'm a research fellow at the Science Policy Research Unit (University of Sussex Business School) and my research has so far focused on sustainability issues around urbanization and food systems in China and India.
 
 The title of my current project is 'Living Together: Hansalim as a model for solidarity pathways towards sustainable food systems.' 
