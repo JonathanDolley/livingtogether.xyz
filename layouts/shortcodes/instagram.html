@@ -1,0 +1,14 @@
+{{ $dataJ := getJSON "https://profilepageimages.usecue.com/images/livingtogether_msca/images.json" }}
+<ul class="instafeed" id="instafeed">
+    {{ range first 3 $dataJ }}
+        {{ $media_type := .media_type | lower }}
+        {{ $image_small := .image_small }}
+        {{ $permalink := .permalink }}
+        {{ $caption := .caption }}
+        <li>
+            <a href="{{ $permalink }}" target="_blank" rel="noopener noreferrer">
+                <img class="{{ $media_type }}" src="{{ $image_small }}" {{ with $caption }}alt="{{ . }}"{{ else }}alt=""{{ end }}>
+            </a>
+        </li>
+    {{ end }}
+  </ul>

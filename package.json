@@ -1,24 +1,33 @@
 {
-  "name": "tech-doc-hugo",
-  "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
-  "main": "none.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
-  },
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/google/docsy-example/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "autoprefixer": "project",
+      "postcss": "project",
+      "postcss-cli": "project"
+    }
+  },
+  "dependencies": {},
+  "description": "Hugo theme for technical documentation.",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
     "postcss-cli": "^9.0.2"
-  }
+  },
+  "homepage": "https://github.com/google/docsy-example#readme",
+  "license": "ISC",
+  "main": "none.js",
+  "name": "tech-doc-hugo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/google/docsy-example.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
 }
