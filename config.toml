@@ -67,7 +67,7 @@ id = "G-0TBK4PJK7S"
 [languages]
 [languages.en]
 title = "LivingTogether"
-description = "A Marie Sklodowska-Curie Global Fellowship"
+description = "A Marie Skłodowska-Curie Global Fellowship"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
