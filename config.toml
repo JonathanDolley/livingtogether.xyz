@@ -47,8 +47,8 @@ blog = "/:section/:year/:month/:day/:slug/"
 
 # Image processing configuration.
 [imaging]
-resampleFilter = "CatmullRom"
-quality = 75
+resampleFilter = "Lanczos"
+quality = 100
 anchor = "smart"
 
 [[menu.main]]
