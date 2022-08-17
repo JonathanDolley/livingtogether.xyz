@@ -180,9 +180,30 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
   name ="Twitter"
-  url = "https://example.org/twitter"
+  url = "https://twitter.com/LT_MSCA_Project"
   icon = "fab fa-twitter"
   desc = "Follow us on Twitter to get the latest news!"
+[[params.links.user]]
+  name ="Instagram"
+  url = "https://instagram.com/livingtogether_msca"
+  icon = "fab fa-instagram"
+  desc = "Follow the story on Instagram!"
+[[params.links.user]]
+  name ="Discord"
+  url = "https://discord.gg/ctxT33bhU9"
+  icon = "fab fa-discord"
+  desc = "Interact on a more personal level on discord"
+[[params.links.user]]
+  name = "GitHub"
+  url = "https://github.com/JonathanDolley/livingtogether.xyz"
+  icon = "fab fa-github"
+  desc = "Website content source files here"
+[[params.links.user]]
+  name = "Email"
+  url = "mailto:j.dolley@sussex.ac.uk"
+  icon = "fa fa-solid fa-envelope"
+  desc = "Contact me by email"
+  
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
@@ -190,6 +211,11 @@ enable = false
   url = "https://github.com/JonathanDolley/livingtogether.xyz"
   icon = "fab fa-github"
   desc = "Development takes place here!"
+
+# Add sharing buttons to every page. (https://github.com/Stals/hugo-share-buttons)
+[params.shareButtons]
+  size = "small"
+  networks = ["facebook", "twitter", "tumblr", "email", "pinterest", "linkedin", "reddit"]
 
 # hugo module configuration
 

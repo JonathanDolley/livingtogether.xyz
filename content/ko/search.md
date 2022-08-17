@@ -1,6 +1,6 @@
 ---
-title: نتایج جستجو
-layout: جستجو
+title: 검색 결과
+layout: search
 
 ---
 
