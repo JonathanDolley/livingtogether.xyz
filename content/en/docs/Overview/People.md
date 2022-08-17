@@ -6,7 +6,4 @@ description: >
   Meet the Mosim team and the other researchers involved in the project and learn about some of the Hansalim members and staff who are participating.
 ---
 
-{{% pageinfo %}}
-Meet the Mosim team and the other researchers involved in the project and learn about some of the Hansalim members and staff who are participating.
-{{% /pageinfo %}}
-
+Coming soon...

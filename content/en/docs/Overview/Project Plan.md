@@ -6,6 +6,4 @@ description: >
   The research and impact plan of the project.
 ---
 
-{{% pageinfo %}}
-The research and impact plan of the project.
-{{% /pageinfo %}}
+Coming soon...
