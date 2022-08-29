@@ -1,0 +1,65 @@
+.flagselect {
+    border: 1px solid #333333;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: black;
+    font-size: 90%;
+  }
+  .flagnoselect {
+    padding: 0px;
+    margin: 0px;
+    color: #333333;
+    font-size: 90%;
+  }
+
+/*
+
+Nothing defined here. The Hugo project that uses this theme can override Bootstrap by adding a file to:
+
+assets/scss/_styles_project.scss
+
+
+
+$pipe-list-height: 20px;
+$pipe-list-padding: 15px;
+
+.pipe-list {
+    position: relative;
+    overflow: hidden;
+    height: $pipe-list-height;
+
+    > ul {
+        display: flex;
+        flex-direction: row;
+
+        > li {
+            position: relative;
+            padding: 0 $pipe-list-padding;
+
+            &:after {
+                content: " ";
+                position: absolute;
+                border-right: 1px solid gray;
+                top: 10%;
+                right: 0;
+                height: 75%;
+                margin-top: auto;
+                margin-bottom: auto;
+            }
+
+            &:first-child {
+                padding-left: 0;
+            }
+
+            &:last-child {
+                padding-right: 0;
+
+                &:after {
+                    border-right: none;
+                }
+            }
+        }
+    }
+}
+*/

@@ -5,6 +5,7 @@ date: 2021-10-07
 weight: 10
 description: >
   A short article introducing the project and my initial reflections on working with Hansalim and their research center, Mosim.
+multilingual: TRUE
 ---
 
 {{% pageinfo %}}

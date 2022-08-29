@@ -71,6 +71,7 @@ description = "A Marie Skłodowska-Curie Global Fellowship"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+languageFlag = "🇬🇧"
 [languages.ko]
 title = "함께 살기"
 description = "유럽연합 마리 퀴리 연구지원 프로그램 연구 프로젝트를"
@@ -79,6 +80,7 @@ weight = 2
 contentDir = "content/ko"
 time_format_default = "2006-02-01"
 time_format_blog = "2006-02-01"
+languageFlag = "🇰🇷"
 
 [markup]
   [markup.goldmark]
