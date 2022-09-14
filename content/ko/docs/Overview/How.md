@@ -1,6 +1,6 @@
 ---
-title: "연구 소게"
-linkTitle: "연구 소게"
+title: "연구 소개"
+linkTitle: "연구 소개"
 date: 2021-10-07
 weight: 10
 description: >
