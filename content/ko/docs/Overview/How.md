@@ -1,16 +1,14 @@
 ---
-title: "How did I get here?"
-linkTitle: "How did I get here?"
+title: "연구 소게"
+linkTitle: "연구 소게"
 date: 2021-10-07
 weight: 10
 description: >
-  A short article introducing the project and my initial reflections on working with Hansalim and their research center, Mosim.
+  아래 내용은 Mosim Magazine No. 18에 게재된 기사에서 발췌한 것입니다.
 multilingual: TRUE
 ---
 
-{{% pageinfo %}}
-아래 내용은 Mosim Magazine No. 18에 게재된 기사에서 발췌한 것입니다.
-{{% /pageinfo %}}
+{{< img src="/images/MosimMagazine.jpg" height="" width="30%" float="right" title="Mosim" >}}
 
 # “Living Together” (함께 살기): 한살림연구 프로젝트
 
@@ -35,6 +33,8 @@ multilingual: TRUE
 [^3]: 프로젝트 웹 사이트: https://www.livingtogether.xyz/ 서섹스 대학 웹 사이트의 정보 페이지: https://www.sussex.ac.uk/business-school/research/centresprojects/living-together
 
 이 연구의 목표는 산업적 모델로부터 벗어나 더 지속가능하고 더 공정한 미래를 향해 우리 먹거리체계를 전환하는 노력을 기울이는 일환으로써 한살림의 경험을 연구하고 영국과 유럽연합의 다른 협동조합 조직 및 운동에 그 시사점을 공유하는 것이다.
+
+{{< img src="/images/HansalimManifesto.jpg" height="" width="30%" float="right" title="Manifesto" >}}
 
 ## 동학, 한살림, 한살림선언에 대한 첫 인상
 

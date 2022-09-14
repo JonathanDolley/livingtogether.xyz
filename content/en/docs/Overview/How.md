@@ -1,6 +1,6 @@
 ---
-title: "How did I get here?"
-linkTitle: "How did I get here?"
+title: "Introduction to the research"
+linkTitle: "Introduction to the research"
 date: 2021-10-07
 weight: 10
 description: >
@@ -11,6 +11,8 @@ multilingual: TRUE
 {{% pageinfo %}}
 This text below was slightly abridged and translated into Korean for an article published in the Mosim Magazine No. 18.
 {{% /pageinfo %}}
+
+{{< img src="/images/MosimMagazine.jpg" height="" width="30%" float="right" title="Mosim" >}}
 
 # Living Together: A new research project about Hansalim
 
@@ -40,6 +42,8 @@ That is how I decided to apply for funding to spend 3 years researching and writ
 During the first 6 months of my project - September 2021 to February 2022 - I am learning Korean after which I will begin participating in Hansalim's activities and carry out extensive fieldwork to learn about Hansalim's history and how the cooperative works in practice. In year two I will continue with fieldwork and also work on a short collaborative research project with the team in Mosim on a topic which we will decide on together. During the 3rd year of the project I will return to the UK to engage with cooperative and solidarity movements in the UK and Europe and help them build connections with Hansalim and share learning.
 
 The goal of my research is to study the experience of Hansalim and draw out lessons for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future.
+
+{{< img src="/images/HansalimManifesto.jpg" height="" width="30%" float="right" title="Manifesto" >}}
 
 ## My first impressions of Donghak, Hansalim and the Manifesto
 
