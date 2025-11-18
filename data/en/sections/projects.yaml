@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Projects
+  name: Outputs
   id: projects
   enable: true
-  weight: 5
+  weight: 15
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,54 +12,79 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Popular
+  filter: "popular"
+- name: Engagement
+  filter: "engagement"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: Paper 1
+  logo: /images/sections/projects/readme.svg
+  role: Author
+  timeline: "March 2022 - Present"
+  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: Hansalim in the context of the Korean cooperative movement from 1910 to 2020. Discussing the values and features of the movement in connection with contemporary developments in 'New Cooperativism'. 
+  tags: ["academic"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: Paper 2
+  logo: /images/sections/projects/readme.svg
+  role: Author
+  timeline: "March 2023 - Present"
+  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Exploring the opportunities and challenges encountered by Hansalim as an alternative food system. Analysing case studies of different food system configurations in Hansalim's various regions (Greater Seoul, Busan, Jeju).
+  tags: ["academic"]
+
+- name: Book
+  logo: /images/sections/projects/book-solid.svg
+  role: Author
+  timeline: "March 2023 - Present"
+  url: "https://book.livingtogether.xyz"
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: "A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation."
+  tags: ["popular"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Symposium
+  logo: /images/sections/projects/people-roof-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
+  summary: "A one-day conference for academics and activists at SPRU, Univeristy of Sussex - 'Solidarity Pathways to Transformative Food Systems'"
+  tags: ["engagement"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Vienna Gathering
+  logo: /images/sections/projects/handshake-solid.svg
+  role: Organiser
+  timeline: "June 2024"
+  url: ""
+  summary: "An opportunity for solidarity food communities across Europe to come together for a two-day workshop to build relationships, share knowledge and meet with Hansalim representatives and researchers to explore future collaboration."
+  tags: ["engagement"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Network
+  logo: /images/sections/projects/people-arrows-solid.svg
+  role: Facilitator
+  timeline: "Beyond end of project"
+  url: ""
+  summary: Initiate an EU-Korea network of solidarity food practitioners and researchers.
+  tags: ["engagement"]
+
+# - name: Nocode
+#   logo: /images/sections/projects/no-code.png
+#   role: Nothing
+#   timeline: "Oct 2019 - Dec 2019"
+#   repo: https://github.com/kelseyhightower/nocode
+#   #url: ""
+#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#   tags: ["hobby", "fun"]
+
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]
