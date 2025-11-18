@@ -1,4 +1,5 @@
-module github.com/hugo-themes/toha-example-site
+module github.com/JonathanDolley/livingtogether.xyz
+
 
 go 1.25
 
