@@ -15,30 +15,84 @@ tags: ["solidarity", "cooperative"]
 categories: ["Basic"]
 ---
 
-On Wednesday this week, my partner and I participated in one of Hansalim's 'Helping Hands' activities. We joined a small group of members from North Seoul Hansalim Co-op to visit a producer community a couple of hours journey from Seoul. We arrived at around 9:30 
+On Wednesday this week, my partner and I participated in one of Hansalim's 'Helping Hands' activities. We joined a small group of members from North Seoul Hansalim Co-op to visit a producer community a couple of hours journey from Seoul. We arrived at around 9:30 in the morning to meet the farmers who gave us a short introduction to their farm and handed out gloves and boots to those who needed them.
 
-Here is a translation of his message. I hope you enjoy it!
+<br />
 
----
+{{< imgh src="/posts/2306-helpinghands/HelpingHands1.jpg" >}}
 
-Drugs.
+<br />
 
-As a farmer, I think it was about 18 years ago that I started to taste drugs. It was in the spring of 2002, after returning to Korea in May 2001, when I met a Busan 'drug boss' with a bushy haircut and coy eyes that made it difficult to guess his intentions at a lecture by Cheon Kyu-seok at the Changnyeong Symbiotic Farming Village. His group approached me, saying they wanted persimmons and chestnuts.
+Then we moved straight into the field to start weeding. After being shown what to do by the husband and wife farming couple, we each took positions on different rows of crops to start working our way along, pulling out the weeds from around the sweet potato plants.
 
-He was Lee Seung-hong, the director of Busan Hansalim. At that time, there were no producers supplying persimmons and chestnuts to Busan Hansalim, so with the recommendation of Dr. Chun Kyu-seok, we shared our intention to supply pesticide-free persimmons and organic chestnuts.
+<br />
 
-Soon after, a half-dozen 'drug dealers' called the Goods Committee came by, each with a packed lunch, to help out at the farm and to see if we were worthy of a "helping hand" drug fix.
-I've been around the block enough to know what position a city person expects.
-Those who came to decide the supply of persimmons were entitled to be bossy.
-However, when the 'superior' (gab) came to do the work for the 'inferior' (eul), they didn't even think of expecting to be served, so they packed their own lunches.
-It was a bizarre experience for a novice farmer who was accustomed to the snobbery of urban 'Gabeul culture'.
+{{< imgh src="/posts/2306-helpinghands/HelpingHands2.jpg" >}}
 
-They brought a drug with an irresistible combination of ingredients: labouring alongside farmers with the heart of humility, kindness, and gratitude. It was the year after I returned to the farm, and in my foolish state of being neither a farmer nor an office worker, I was just blown away by this very powerful drug.
+<br />
 
-Since then, they have been relentlessly supplying farmers with these 'deadly narcotics'. In the spring, they supplied persimmon pickers, and in the fall, they supplied chestnut pickers and persimmon pickers. Then, at the end of the year, they held a 'drug revival' and made a group effort, but this year, when the revival was canceled due to the outbreak of a strange virus called Corona, they sent the drugs in boxes. Handwritten letters, hand cream, shawls, lemon tea, and invisible kindness!  Ah, the persistence of these people... ?
+It was hot and thirsty work and physically demanding. Bending over and crouching next to the rows of plants and reaching down to the ground again and again soon caused the body to ache terribly and we had to keep standing up and stretching to give our muscles a break.
 
-How can a farmer escape from their drugs? I have no choice but to farm persimmons next year...!
+<br />
 
----
+{{< imgh src="/posts/2306-helpinghands/HelpingHands3.jpg" >}}
 
-Translation by DeepL.com, Jonathan Dolley and Hanna Son
+<br />
+
+Because these farmers grow organically they do not use herbicide to suppress the weeds. So we used small hoes to scrape the surface of the soil and used our hands to pull out each one.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands4.jpg" >}}
+
+<br />
+
+We realised that, for the farmers who do this all day, and many times over, the impact on their bodies is severe. And as the farmers get older, it will become harder and harder to continue this back breaking physical labour.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands5.jpg" >}}
+
+<br />
+
+Touching the soil, seeing its texture and smelling the fresh scent of it made us feel more connected to the source of our food and to appreciate the lengths to which these farmers go to keep it healthy and organic.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands6.jpg" >}}
+
+<br />
+
+We worked like this for a couple of hours until we felt to hot and thirsty to carry on and we took a break by the side of the field to drink water and rest a while. We listened to the sounds of the insects and the birds and wind in the trees as we look over the fields, noticing how little of the whole we had weeded so far.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands7.jpg" >}}
+
+<br />
+
+After the morning’s work we went to a nearby restaurant to share lunch with the farmers. Over lunch we talked and joked together and after we had finished we spent some time listening to each others’ stories. The farmers told us about their journey with Hansalim into organic agriculture and shared their struggles and hardships as they tried to keep farming and stay true to their values of respecting the natural world. They also showed their heart towards the consumers for whom they grow the crops and their joy when they hear from consumers how they appreciate the food they produce.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands8.jpg" >}}
+
+<br />
+
+The consumers, in turn, shared their stories of how they became involved with Hansalim and how they value the products Hansalim produces. One woman told us how she had come to know Hansalim while she was recovering from cancer. During her recovery, she wanted to eat organic and safe food that would aid her body as it healed from the surgery and treatment. So she became a member of Hansalim because she trusted their food more than any others.
+
+Another woman explained how her children suffered from skin problems and it was only when she shifted the family diet to Hansalim products that it cleared up. Now she depends on Hansalim producers for the organic and safe food that they provide because it keeps her family healthy.
+
+All of the people present had similar stories to share and they all shared in common the journey from consumer to active member. They valued the opportunity to visit the farmers and to be able to give something back, however small a gesture it may be.
+
+At the end of the visit, have share a meal and exchanged our stories we said goodbye. The consumer members exchange phone numbers with each other and with the farmers so that they could keep in touch and encourage each other and organise future visits.
+
+<br />
+
+{{< imgh src="/posts/2306-helpinghands/HelpingHands9.jpg" >}}
+
+<br />
+
+The whole experience truly made us appreciate the amount of work that goes in to producing the food we eat. It gave us a physical connection to the land from which it comes and a embodied sense of empathy for the physical labour endured by the farmers. It also gave us an emotional connection to the farmers and their land and formed a bond of friendship that would continue into the future.
+
+This is what I think of as a mindful market, in which the economic transaction takes second place to the emotional connection with the producers. It is also an embodied practice of stepping into the shoes of the farmers themselves for a brief time to experience the physicality of their work. And it a sensory connection to land and the soil through the smell and sounds of the place itself.
