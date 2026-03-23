@@ -19,7 +19,7 @@ On Wednesday this week, my partner and I participated in one of Hansalim's 'Help
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands1.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands1.jpg" alt="" >}}
 
 <br />
 
@@ -27,7 +27,7 @@ Then we moved straight into the field to start weeding. After being shown what t
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands2.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands2.jpg" alt="" >}}
 
 <br />
 
@@ -35,7 +35,7 @@ It was hot and thirsty work and physically demanding. Bending over and crouching
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands3.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands3.jpg" alt="" >}}
 
 <br />
 
@@ -43,7 +43,7 @@ Because these farmers grow organically they do not use herbicide to suppress the
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands4.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands4.jpg" alt="" >}}
 
 <br />
 
@@ -51,7 +51,7 @@ We realised that, for the farmers who do this all day, and many times over, the 
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands5.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands5.jpg" alt="" >}}
 
 <br />
 
@@ -59,7 +59,7 @@ Touching the soil, seeing its texture and smelling the fresh scent of it made us
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands6.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands6.jpg" alt="" >}}
 
 <br />
 
@@ -67,7 +67,7 @@ We worked like this for a couple of hours until we felt to hot and thirsty to ca
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands7.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands7.jpg" alt="" >}}
 
 <br />
 
@@ -75,7 +75,7 @@ After the morning’s work we went to a nearby restaurant to share lunch with th
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands8.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands8.jpg" alt="" >}}
 
 <br />
 
@@ -89,7 +89,7 @@ At the end of the visit, have share a meal and exchanged our stories we said goo
 
 <br />
 
-{{< imgh src="/posts/2306-helpinghands/HelpingHands9.jpg" >}}
+{{< imgh src="/posts/2306-helpinghands/HelpingHands9.jpg" alt="" >}}
 
 <br />
 
