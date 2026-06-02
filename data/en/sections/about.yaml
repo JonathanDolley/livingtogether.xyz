@@ -19,14 +19,22 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "This 3 year research project is a [Marie Skłodowska-Curie Action](https://ec.europa.eu/research/mariecurieactions/) - Global Fellowship led by [Dr Jonathan Dolley](https://profiles.sussex.ac.uk/p133363-jonathan-dolley) and supervised by the [University of Sussex](https://www.sussex.ac.uk/business-school/people-and-departments/spru) and the [Mosim and Salim Research Institute](http://mosim.or.kr/), Hansalim (South Korea). Through this project I am investigating the story of the Korean cooperative, [Hansalim](http://eng.hansalim.or.kr/), which grew from a small rice market on the outskirts of Seoul in 1986 to become one of the worlds largest organic food cooperatives with 750,000 members and producers. I want to find out what lessons their experience holds for other cooperative groups and movements in the UK and EU as we strive to transform our food systems away from industrialized models towards a fairer and more sustainable future."
+summary: "Imagine a food system which belongs entirely to the people growing, processing and consuming its products and which is designed not for profit but for permanence. Perhaps instead of maximising profits for shareholders its goal would be to build lasting relationships of trust and mutual care between rural and urban communities based on a shared responsibility for the future. Food would no longer be a commodity; the price of which is set by the ‘hidden hand’ of the market. It could perhaps become a symbol of mutual interdependence, valued for the labour required to produce it while caring for the lifeworlds of the nonhumans whose continuing flourishing is the ultimate source of our own survival. It might even plant the seeds of a wider social transformation towards a more sustainable and just world.
+
+Is such a system possible? Has it ever been attempted in a modern industrialised country?
+
+In South Korea there is a movement that has attempted just that. It is called the Hansalim Life Movement and it brings together a community of consumers and producers across Korea into a national cooperative federation which operates 240 stores serving roughly 1 million member households and supporting 2,300 producer households.
+
+For the past five years, Dr Jonathan Dolley has been researching the Hansalim Life Movement -- first as a Marie Skłodowska-Curie Global Fellow and now as a visiting researcher at the [Mosim and Salim Research Institute](http://mosim.or.kr/) (Hansalim's research centre).
+
+This project website is a home for the outputs from that research and a collection of resources about Hansalim that may be of interest for those outside Korea. It is a place to explore what lessons Hansalim's experience holds for those of us who are striving to transform our food systems away from industrialized models towards a fairer and more sustainable future."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "j.dolley@sussex.ac.uk"
+  url: "j_dolley@icloud.com"
 
 #- name: Github
 #  icon: "fab fa-github"
@@ -57,8 +65,8 @@ socialLinks:
 resourceLinks:
 - title: "E-Book"
   url: "https://book.livingtogether.xyz"
-- title: "Hansalim 2021 Report (english)" 
-  url: "https://drive.google.com/file/d/1LUZxoPycHRt4-vKIowS65nj0Or3RUspu/view?usp=share_link"
+- title: "Hansalim 2026 Annual Report" 
+  url: "files/Hansalim_Annual_Report_2026_EN.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
