@@ -18,6 +18,8 @@ buttons:
   filter: "books"
 - name: Videos
   filter: "videos"
+- name: Posts
+  filter: "posts"
 
 # your projects
 projects:
@@ -26,7 +28,7 @@ projects:
   role: "Hansalim"
   timeline: "2021"
   url: "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
-  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual care."
+  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual care. For a commentary on the Manifesto, see my book project chapter 3."
   tags: ["books"]
 
 - name: Book Project
@@ -69,6 +71,25 @@ projects:
   url: "https://youtu.be/QV1zW5fuTiw?si=-wS-SHwgcFwvm2X7"
   summary: "This video was made on a study tour to Hansalim made by a group from Norway in May 2024."
   tags: ["videos"]
+
+- name: Hansalim Farming is Different
+  logo: /images/sections/projects/readme.svg
+  role: "Hansalim"
+  timeline: "2018"
+  url: "https://book.livingtogether.xyz/appendices/01_farming_blog.html"
+  #url: ""
+  summary: "This post is a translation of a series of blog posts in Korean published by Hansalim in 2018. It describes the agricultural practices to which Hansalim producers aspire. Visit https://blog.naver.com/hansalim/221389445450 to see the originals."
+  tags: ["posts"]
+
+- name: "Hansalim – South Korea’s sustainable food system based on solidarity"
+  logo: /images/sections/projects/readme.svg
+  role: "Jonathan Dolley"
+  timeline: "2024"
+  url: "https://maaseutu.fi/sv/blogi/hansalim-sydkoreas-hallbara-livsmedelssystem-baserat-pa-solidaritet/"
+  #url: ""
+  summary: "This is a blog post I wrote for the maaseutu.fi website following my presentation for the Ruokavirasto Rural Network Support Unit of Finland."
+  tags: ["posts"]
+
 
 # - name: Nocode
 #   logo: /images/sections/projects/no-code.png
