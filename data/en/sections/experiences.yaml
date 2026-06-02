@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Timeline
+  name: Project Timeline
   id: experiences
   enable: true
   weight: 10
