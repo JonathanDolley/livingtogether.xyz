@@ -39,3 +39,7 @@ mise run update
 ```
 mise run update-to-main
 ```
+
+## Publishing
+
+Push changes to github.

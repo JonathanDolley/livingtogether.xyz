@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Themes
+  name: Resources
   id: skills
   enable: true
   weight: 2
@@ -11,10 +11,10 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Sustainability
+- name: Hansalim Manifesto
   logo: /images/sections/skills/tree-city-solid.svg
-  summary: "How does Hansalim balance economic viability with ecological regeneration and social justice?"
-  url: ""
+  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual cooperation."
+  url: "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
 
 - name: Ecophilosophy
   logo: /images/sections/skills/pagelines.svg
