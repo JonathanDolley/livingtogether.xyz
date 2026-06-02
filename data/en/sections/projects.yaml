@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Outputs
+  name: Resources
   id: projects
   enable: true
-  weight: 15
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,65 +12,63 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Academic
-  filter: "academic"
-- name: Popular
-  filter: "popular"
-- name: Engagement
-  filter: "engagement"
+- name: Reports
+  filter: "reports"
+- name: Books
+  filter: "books"
+- name: Videos
+  filter: "videos"
 
 # your projects
 projects:
-- name: Paper 1
-  logo: /images/sections/projects/readme.svg
-  role: Author
-  timeline: "March 2022 - Present"
-  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Hansalim in the context of the Korean cooperative movement from 1910 to 2020. Discussing the values and features of the movement in connection with contemporary developments in 'New Cooperativism'. 
-  tags: ["academic"]
+- name:The Hansalim Manifesto
+  logo: /images/sections/skills/pagelines.svg
+  role: Hansalim
+  timeline: "2021"
+  url:  "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
+  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual care."
+  tags: ["books"]
 
-- name: Paper 2
-  logo: /images/sections/projects/readme.svg
-  role: Author
-  timeline: "March 2023 - Present"
-  url:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Exploring the opportunities and challenges encountered by Hansalim as an alternative food system. Analysing case studies of different food system configurations in Hansalim's various regions (Greater Seoul, Busan, Jeju).
-  tags: ["academic"]
+- name: Book Project
+  logo: /images/sections/skills/bowl-rice-solid.svg
+  role: Jonathan Dolley
+  timeline: "2024 - present"
+  url:  "https://book.livingtogether.xyz"
+  summary: Hansalim: "The Universe in a Bowl of Rice. An online book published serially one chapter at a time, it presents the history and philosophy of Hansalim and describes its model of multi-stakeholder cooperation. Future chapters will showcase the personal stories of Hansalim members and explore the potential for others to learn from Hansalim's experience as they seek to build transformative food systems for a sustainable future"
+  tags: ["books"]
 
-- name: Book
+- name: Hansalim 2026 Annual Report
   logo: /images/sections/projects/book-solid.svg
-  role: Author
-  timeline: "March 2023 - Present"
-  url: "https://book.livingtogether.xyz"
+  role: Hansalim
+  timeline: "2026"
+  url: "files/Hansalim_Annual_Report_2026_EN.pdf"
   #url: ""
-  summary: "A book about Hansalim for popular readership. Telling the story of Hansalim and featuring personal stories from co-op members. Analysis of Hansalim's multi-stakeholder model as a potential pathway to sustainable food systems. Discussing connections between Hansalim's eco-philosophy and ideas about wider social transformation."
-  tags: ["popular"]
+  summary: "This is the Hansalim Federation's annual report translated into English. It outlines the past year's activities and provides plenty of useful numbers to give you an idea of the scale of those activities."
+  tags: ["reports"]
 
-- name: Symposium
-  logo: /images/sections/projects/people-roof-solid.svg
-  role: Organiser
-  timeline: "June 2024"
-  url: ""
-  summary: "A one-day conference for academics and activists at SPRU, Univeristy of Sussex - 'Solidarity Pathways to Transformative Food Systems'"
-  tags: ["engagement"]
+- name: Project Youtube Channel
+  logo: /images/sections/skills/video-solid-full.svg
+  role: Jonathan Dolley
+  timeline: ""
+  url: "https://www.youtube.com/@livingtogether_msca/"
+  summary: "Here you can find videos of past presentations and playlists of other videos about Hansalim"
+  tags: ["videos"]
 
-- name: Vienna Gathering
-  logo: /images/sections/projects/handshake-solid.svg
-  role: Organiser
-  timeline: "June 2024"
-  url: ""
-  summary: "An opportunity for solidarity food communities across Europe to come together for a two-day workshop to build relationships, share knowledge and meet with Hansalim representatives and researchers to explore future collaboration."
-  tags: ["engagement"]
+- name: Introductory Youtube Video
+  logo: /images/sections/skills/video-solid-full.svg
+  role: 
+  timeline: "October 2024"
+  url: "https://youtu.be/m4C-GCv2hYI"
+  summary: "A presentation by Dr Jonathan Dolley about Hansalim's purpose and practice for a webinar organised by the Ruokavirasto Rural Network Support Unit of Finland."
+  tags: ["videos"]
 
-- name: Network
-  logo: /images/sections/projects/people-arrows-solid.svg
-  role: Facilitator
-  timeline: "Beyond end of project"
-  url: ""
-  summary: Initiate an EU-Korea network of solidarity food practitioners and researchers.
-  tags: ["engagement"]
+- name: Study Visit Youtube Video
+  logo: /images/sections/skills/video-solid-full.svg
+  role: 
+  timeline: "May 2024"
+  url: "https://youtu.be/QV1zW5fuTiw?si=-wS-SHwgcFwvm2X7"
+  summary: "This video was made on a study tour to Hansalim made by a group from Norway in May 2024."
+  tags: ["videos"]
 
 # - name: Nocode
 #   logo: /images/sections/projects/no-code.png
