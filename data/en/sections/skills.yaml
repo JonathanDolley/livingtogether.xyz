@@ -11,31 +11,35 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Hansalim Manifesto
-  logo: /images/sections/skills/tree-city-solid.svg
-  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual cooperation."
+- name: The Hansalim Manifesto
+  logo: /images/sections/skills/pagelines.svg
+  summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual care."
   url: "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
 
-- name: Ecophilosophy
-  logo: /images/sections/skills/pagelines.svg
-  summary: "How does Hansalim's unique eco-philosophy influence its values and practice?"
-  url: ""
-
-- name: New Cooperativism
-  logo: /images/sections/skills/handshake-simple-solid.svg
-  summary: "How do Hansalim's values and practices compare with the emerging models of 'New Cooperativism' and 'Open Cooperatives' linked to the Commons Transition Movement?"
-
-- name: Food Systems Transformation
+- name: Book Project
   logo: /images/sections/skills/bowl-rice-solid.svg
-  summary: "What lessons can we learn from Hansalim's experience creating a large-scale eco-friendly alternative food system?"
-  url: ""
+  summary: "Hansalim: The Universe in a Bowl of Rice. By Dr Jonathan Dolley (work in progress)."
+  url: "https://book.livingtogether.xyz"
 
-- name: Challenges
-  logo: /images/sections/skills/people-carry-box-solid.svg
-  summary: "What are the main challenges faced by Hansalim along its 30 year journey and how have they shaped Hansalim's evolution?"
-  url: ""
-
-- name: Outcomes
+- name: Hansalim 2026 Annual Report
   logo: /images/sections/skills/users-solid.svg
-  summary: "What are the outcomes from Hansalim's food system model for environmental and social goals?"
+  summary: "This is the Hansalim Federation's annual report translated into English. It outlines the past year's activities and provides plenty of useful numbers to give you an idea of the scale of those activities."
+  url: "files/Hansalim_Annual_Report_2026_EN.pdf"
+
+- name: Project Youtube Channel
+  logo: /images/sections/skills/video-solid-full.svg
+  summary: "Here you can find videos of past presentations and playlists of other videos about Hansalim"
+  url: "https://www.youtube.com/@livingtogether_msca/"
+
+- name: Introductory Youtube Video
+  logo: /images/sections/skills/video-solid-full.svg
+  summary: "A presentation by Dr Jonathan Dolley about Hansalim's purpose and practice for a webinar organised by the Ruokavirasto Rural Network Support Unit of Finland.
+  url: "https://youtu.be/m4C-GCv2hYI"
+
+- name: Study Visit Youtube Video
+  logo: /images/sections/skills/video-solid-full.svg
+  summary: "This video was made on a study tour to Hansalim made by a group from Norway in May 2024."
+  url: "https://youtu.be/QV1zW5fuTiw?si=-wS-SHwgcFwvm2X7"
+
+
 
