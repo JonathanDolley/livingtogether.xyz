@@ -21,25 +21,25 @@ buttons:
 
 # your projects
 projects:
-- name:The Hansalim Manifesto
+- name: The Hansalim Manifesto
   logo: /images/sections/skills/pagelines.svg
-  role: Hansalim
+  role: "Hansalim"
   timeline: "2021"
-  url:  "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
+  url: "https://book.livingtogether.xyz/files/HansalimManifestoEnglish2021.pdf"
   summary: "Written in 1989, the Hansalim Manifesto laid out the founders' critique of both capitalism and communism and their vision for an alternative civilization grounded in reverence for life and mutual care."
   tags: ["books"]
 
 - name: Book Project
   logo: /images/sections/skills/bowl-rice-solid.svg
-  role: Jonathan Dolley
+  role: "Jonathan Dolley"
   timeline: "2024 - present"
-  url:  "https://book.livingtogether.xyz"
+  url: "https://book.livingtogether.xyz"
   summary: Hansalim: "The Universe in a Bowl of Rice. An online book published serially one chapter at a time, it presents the history and philosophy of Hansalim and describes its model of multi-stakeholder cooperation. Future chapters will showcase the personal stories of Hansalim members and explore the potential for others to learn from Hansalim's experience as they seek to build transformative food systems for a sustainable future"
   tags: ["books"]
 
 - name: Hansalim 2026 Annual Report
   logo: /images/sections/projects/book-solid.svg
-  role: Hansalim
+  role: "Hansalim"
   timeline: "2026"
   url: "files/Hansalim_Annual_Report_2026_EN.pdf"
   #url: ""
@@ -48,7 +48,7 @@ projects:
 
 - name: Project Youtube Channel
   logo: /images/sections/skills/video-solid-full.svg
-  role: Jonathan Dolley
+  role: "Jonathan Dolley"
   timeline: ""
   url: "https://www.youtube.com/@livingtogether_msca/"
   summary: "Here you can find videos of past presentations and playlists of other videos about Hansalim"
